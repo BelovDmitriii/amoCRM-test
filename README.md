@@ -8,4 +8,4 @@
 
 [Ссылка на проект GitHub - https://belovdmitriii.github.io/amoCRM-test/](https://belovdmitriii.github.io/amoCRM-test/)
 
-![Решение тестового задания Desktop](./images/amoCRM-desktop.jpg){width=500px}
+<img src="./images/amoCRM-desktop.jpg" alt="Решение тестового задания" style="width:500px;"/>
