@@ -312,6 +312,10 @@ body {
     height: fit-content;
   }
 
+  .menu__item a:hover {
+    text-decoration: none;
+  }
+
   .menu {
     padding: 0;
     margin: 0;
